@@ -1,0 +1,18 @@
+--Backend--
+# Dependencies :--
+1. express
+2. cors
+3. axios
+
+#Extention for rest
+-- Rest Clint
+
+#We need to actually add real authenticate code to our Node server and we need to give user 
+access to chat apis and chat backend functionality Do that by "Chat engine.io" it provides full-stack chat tools
+go to "https://rest.chatengine.io/" 
+
+--Frontend--
+1.Vite (React,Javascript)
+
+Api calls on Frontend
+.. npm install axios;
